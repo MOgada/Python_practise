@@ -1,5 +1,9 @@
-x =  input("Input values ")
+x =  int(input("Enter Value A... "))
+y =  int(input("Enter Value B... "))
 
-print(x)
+z = y * x
+
+
+print("Answer is:", z)
 
 
